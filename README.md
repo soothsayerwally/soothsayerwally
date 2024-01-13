@@ -1,10 +1,10 @@
 <h1 align="center">Hey there, I'm Krishang</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soothsayerwally&label=Profile%20views&color=0e75b6&style=flat" alt="soothsayerwally" /> </p>
 
-- 🌱 I’m currently learning: **Python, Javascipt, C, Rust and Networking**
+- 📚 I’m currently learning: **Python, Javascipt, C, Rust and Networking**
 
 - 📫 You can reach me at: **krishangnayanbhagawati@gmail.com**
-- Stuff you should know: **I'm still learning the ropes :)**
+- 🐢 Stuff you should know: **I'm still learning the ropes :)**
 
 <div> <a href="https://github.com/soothsayerwally" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:krishangnayanbhagawati@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
