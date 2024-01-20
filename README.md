@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Krishang</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=soothsayerwally&label=Profile%20views&color=0e75b6&style=flat" alt="soothsayerwally" /> </p>
+
 
 - 📚 I’m currently learning: **Python, Javascript, C, Rust and Networking**
 
