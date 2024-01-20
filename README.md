@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Krishang</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soothsayerwally&label=Profile%20views&color=0e75b6&style=flat" alt="soothsayerwally" /> </p>
 
-- 📚 I’m currently learning: **Python, Javascipt, C, Rust and Networking**
+- 📚 I’m currently learning: **Python, Javascript, C, Rust and Networking**
 
 - 📫 You can reach me at: **krishangnayanbhagawati@gmail.com**
 - 🐢 Stuff you should know: **I'm still learning the ropes :)**
