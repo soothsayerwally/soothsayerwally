@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Krishang</h1>
 
 
-- 📚 I’m currently learning: **Python,C, Rust and Networking**
+- 📚 I’m currently learning: **Python, C, Rust and Networking**
 
 - 📫 You can reach me at: **krishangnayanbhagawati@gmail.com**
 - 🐢 Stuff you should know: **I'm still learning the ropes :)**
